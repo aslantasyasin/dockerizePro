@@ -1,0 +1,46 @@
+
+version: "3.8"
+services:
+  Basketdb:
+    container_name: mssql1
+    restart: always
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=sifre123
+  CatalogDb:
+    container_name: mssql2
+    restart: always
+    ports:
+      - "1444:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=sifre1234
+  rabbitmq:
+    container_name: rabbitmqcontainer1
+    restart: always
+    ports:
+      - "1453:15672"
+      - "5672:5672"
+  basket.api:
+    container_name: Koton-Basket
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production,
+      - RabbitMqUrl=rabbitmq,
+      - "ConnectionStrings:MsSQLConnection=Server=Basketdb,1433;Database:BasketDb;User Id:sa;Password:sifre123;MultipleActiveResultSets=true"
+    ports:
+      - "5011:80"
+    depends_on:
+      - Basketdb
+  catalog.api:
+    container_name: Koton-Catalog
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production,
+      - RabbitMqUrl=rabbitmq,
+      - "ConnectionStrings:MsSQLConnection=Server=CatalogDb,1444;Database=CatalogDb;User Id=sa;Password=sifre1234;MultipleActiveResultSets=true"
+    ports:
+      - "5012:80"
+    depends_on:
+      - CatalogDb
+

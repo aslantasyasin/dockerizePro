@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Koton.Catalog.Infrastructure
+build_property.ProjectDir = D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\

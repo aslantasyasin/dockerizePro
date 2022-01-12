@@ -1,0 +1,15 @@
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\bin\Debug\net5.0\Koton.Catalog.Infrastructure.deps.json
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\bin\Debug\net5.0\Koton.Catalog.Infrastructure.runtimeconfig.json
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\bin\Debug\net5.0\Koton.Catalog.Infrastructure.runtimeconfig.dev.json
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\bin\Debug\net5.0\Koton.Catalog.Infrastructure.dll
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\bin\Debug\net5.0\ref\Koton.Catalog.Infrastructure.dll
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\bin\Debug\net5.0\Koton.Catalog.Infrastructure.pdb
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\obj\Debug\net5.0\Koton.Catalog.Infrastructure.csprojAssemblyReference.cache
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\obj\Debug\net5.0\Koton.Catalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\obj\Debug\net5.0\Koton.Catalog.Infrastructure.AssemblyInfoInputs.cache
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\obj\Debug\net5.0\Koton.Catalog.Infrastructure.AssemblyInfo.cs
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\obj\Debug\net5.0\Koton.Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\obj\Debug\net5.0\Koton.Catalog.Infrastructure.dll
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\obj\Debug\net5.0\ref\Koton.Catalog.Infrastructure.dll
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\obj\Debug\net5.0\Koton.Catalog.Infrastructure.pdb
+D:\KotonProjects\Koton.Catalog.API\Koton.Catalog.Infrastructure\obj\Debug\net5.0\Koton.Catalog.Infrastructure.genruntimeconfig.cache

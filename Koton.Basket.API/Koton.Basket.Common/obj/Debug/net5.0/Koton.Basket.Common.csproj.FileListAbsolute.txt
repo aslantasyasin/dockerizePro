@@ -1,0 +1,12 @@
+D:\KotonProjects\Koton.Basket.API\Koton.Basket.Common\bin\Debug\net5.0\Koton.Basket.Common.deps.json
+D:\KotonProjects\Koton.Basket.API\Koton.Basket.Common\bin\Debug\net5.0\Koton.Basket.Common.dll
+D:\KotonProjects\Koton.Basket.API\Koton.Basket.Common\bin\Debug\net5.0\ref\Koton.Basket.Common.dll
+D:\KotonProjects\Koton.Basket.API\Koton.Basket.Common\bin\Debug\net5.0\Koton.Basket.Common.pdb
+D:\KotonProjects\Koton.Basket.API\Koton.Basket.Common\obj\Debug\net5.0\Koton.Basket.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\KotonProjects\Koton.Basket.API\Koton.Basket.Common\obj\Debug\net5.0\Koton.Basket.Common.AssemblyInfoInputs.cache
+D:\KotonProjects\Koton.Basket.API\Koton.Basket.Common\obj\Debug\net5.0\Koton.Basket.Common.AssemblyInfo.cs
+D:\KotonProjects\Koton.Basket.API\Koton.Basket.Common\obj\Debug\net5.0\Koton.Basket.Common.csproj.CoreCompileInputs.cache
+D:\KotonProjects\Koton.Basket.API\Koton.Basket.Common\obj\Debug\net5.0\Koton.Basket.Common.dll
+D:\KotonProjects\Koton.Basket.API\Koton.Basket.Common\obj\Debug\net5.0\ref\Koton.Basket.Common.dll
+D:\KotonProjects\Koton.Basket.API\Koton.Basket.Common\obj\Debug\net5.0\Koton.Basket.Common.pdb
+D:\KotonProjects\Koton.Basket.API\Koton.Basket.Common\obj\Debug\net5.0\Koton.Basket.Common.csprojAssemblyReference.cache

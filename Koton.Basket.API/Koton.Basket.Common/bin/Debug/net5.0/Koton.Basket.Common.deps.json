@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Koton.Basket.Common/1.0.0": {
+        "runtime": {
+          "Koton.Basket.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Koton.Basket.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

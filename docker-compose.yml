@@ -1,0 +1,19 @@
+version: "3.8"
+services:
+  Basketdb:
+    image: mcr.microsoft.com/mssql/server
+  CatalogDb:
+    image: mcr.microsoft.com/mssql/server
+  rabbitmq:
+    image: rabbitmq:3.9.12-management
+  basket.api:
+    image: kotonbasketapi2
+    build:
+      context: .
+      dockerfile: Koton.Basket.API/Dockerfile
+  catalog.api:
+    image: kotoncatalogapi2
+    build:
+      context: .
+      dockerfile: Koton.Catalog.API/Dockerfile
+  
